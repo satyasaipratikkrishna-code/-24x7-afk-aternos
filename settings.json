@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "SoloCloudHosting",
+    "username": "chall loudeee",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
-    "version": "1.20.1",
+    "ip": "lafdaa01.playserver.pro",
+    "port": 37615,
+    "version": "1.21.10",
     "try-creative": false
   },
   "position": {
